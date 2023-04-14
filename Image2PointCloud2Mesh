@@ -73,7 +73,7 @@ mesh = marching_cubes_mesh(
     pc=pc,
     model=model,
     batch_size=4096,
-    grid_size=256, # increase to 128 for resolution used in evals
+    grid_size=256, 
     progress=True,
 )
 
