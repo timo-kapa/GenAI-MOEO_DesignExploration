@@ -1,0 +1,1 @@
+Citing paper: https://www.researchgate.net/publication/370132419_A_multi-modal_workflow_for_image-to-3D_generation_and_multi-objective_optimisation_of_generated_3D_models
